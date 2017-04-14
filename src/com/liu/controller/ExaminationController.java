@@ -15,7 +15,7 @@ import com.liu.Until.JsonUntil;
 
 @Controller
 @RequestMapping("/Examination")
-public class ExaminationController {
+public class ExaminationController { 
 
 		@RequestMapping(value="/list.action")
 		@ResponseBody
